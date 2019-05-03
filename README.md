@@ -1,5 +1,7 @@
 # Описание запуска проекта
 
+[![Build Status](https://travis-ci.com/evgenabramov/Continuous-Integration.svg?token=BTLs4oCWwqfaRL1pjb6t&branch=dev)](https://travis-ci.com/evgenabramov/Continuous-Integration)
+
 ***Внимание!*** Файл с описанием архитектуры проекта `Architecture.md` 
 и файл с описанием игровой модели `GameModel.md` лежат в корневой папке.
 
