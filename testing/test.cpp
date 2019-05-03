@@ -26,7 +26,7 @@ using std::make_shared;
 TEST(Position, PositionCreation) {
   Position first_position(3, 4);
   Position second_position(6, 2);
-  EXPECT_EQ(first_position.FindDistance(second_position), 5);
+  EXPECT_EQ(first_position.FindDistance(second_position), 7);
 }
 
 TEST(Position, PositionCopy) {
