@@ -7,3 +7,7 @@ script:
   - cmake ../
   - make
   - ./run_unit_tests
+notifications:
+  email:
+    - abramov.ed@phystech.edu
+    - evgenabramov239@gmail.com
